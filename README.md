@@ -1,5 +1,5 @@
 
-#Info Graph
+# Info Graph
 This repository is dedicated to explaining the theory of the graph like structure called Info Graph.
 The primary terms being described here will be the *Info Graph*, *Info Triples* and *Info Tables*.
 
